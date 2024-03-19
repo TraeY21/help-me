@@ -1,10 +1,10 @@
 import React from "react";
-import  ReactDOM  from "react";
+import  ReactDOM  from "react-dom";
 
 ReactDOM.render(
-    <h1 id="tittle">
-        <span>Hello World!</span>
-    </h1>,
+    <div>
+        <h1>Hello World Yanzito</h1>
+    </div>,
     document.getElementById("root"),
 );
 
